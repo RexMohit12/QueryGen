@@ -34,7 +34,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aditya-Codes-247/QueryGen.git
+   git clone https://github.com/RexMohit12/QueryGen_SQL.git
    cd QueryGen
    ```
 
@@ -48,7 +48,7 @@ Make sure you have the following installed on your system:
 
 4. **Run the FastAPI application:**
    ```bash
-   uvicorn app:app --reload
+   uvicorn main:app --reload
    ```
    
 5. **API Testing:**
