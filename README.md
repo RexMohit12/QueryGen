@@ -1,7 +1,6 @@
 # QueryGen 
 
-## Project Overview
-Our project comprises of an advanced online SQL query generator that leverages state-of-the-art machine learning techniques to simplify SQL query creation. We fine-tuned a pre-trained BERT model using the WikiSQL and Spider datasets for DML commands. Additionally, we created a custom dataset for DDL commands through web scraping (link to custom DDL dataset). We also employed transfer learning to enhance model performance.
+This project comprises of an advanced online SQL query generator that leverages state-of-the-art machine learning techniques to simplify SQL query creation. Developed by me and my friend Aditya-Codes-247, We fine-tuned a pre-trained BERT model using the WikiSQL and Spider datasets for DML commands. Additionally, we created a custom dataset for DDL commands through web scraping. We also employed transfer learning to enhance model performance.
 
 ## Backend Technologies
 The backend of the project is built using the following technologies:
@@ -56,4 +55,5 @@ Make sure you have the following installed on your system:
 
 
 With this setup, you'll be able to deploy and test our sophisticated SQL query generator on your local machine, utilizing cutting-edge machine learning models and an intuitive, animated frontend interface.
+
 As of now the application is open sourced, however the future updates may deprecate this repo. to convert it into a hosted website, However the website still will be a free to use service
